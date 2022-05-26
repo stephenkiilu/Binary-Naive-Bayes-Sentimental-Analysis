@@ -1,1 +1,1 @@
-#Binary Naive Bayes sentimemntal analysis
+# Binary Naive Bayes sentimemntal analysis
